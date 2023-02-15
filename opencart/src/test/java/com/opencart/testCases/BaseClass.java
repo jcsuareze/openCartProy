@@ -32,7 +32,7 @@ public class BaseClass {
 		driver.quit();
 	}
 
-	// Generado por dependencias Juan Carlos
+	// Generado por dependencias
 	public String randomString(int numberOfDigits) {
 
 		String generatedString = RandomStringUtils.randomAlphabetic(numberOfDigits);
