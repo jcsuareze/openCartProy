@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+
+<Configuration status="WARN">
+	<Properties>
+		<Property name="basePath">./logs</Property><!-- Donde se guardan-->
+	</Properties>
+	
+	<Appenders>
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS}[%t] %-5level %logger[36] - %ms%n" />
+		</Console>
+		<!-- RollingFile es donde se guarda en archivo-->
+		<RollingFile name="File" fileName="${basePath}/automation.log" filePattern="${basePath}/automation-%d{yyyy-MM-dd}.log">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS}[%t] %-5level %logger[36] - %ms%n" />
+			<SizeBasedTriggeringPolicy size="50000" />
+		</RollingFile>
+	</Appenders>
+	
+	<Loggers>
+		<Root level="Info">
+			<!-- Aqui se pueden usar multipes niveles de registro  All < Trace < Debug < Info < Warn < Error  < off-->
+			<AppenderRef ref="File" /> 
+			<AppenderRef ref="Console" />
+		</Root>
+	</Loggers>
+</Configuration>
