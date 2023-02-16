@@ -9,7 +9,7 @@ import com.opencart.testBase.BaseClass;
 
 public class TC_001_AccountRegistrationTest extends BaseClass {
 
-	@Test
+	@Test(description = "Esta prueba verifica que una cuenta haya sido creada exitosamente ")
 	void test_account_Registration() {
 
 		logger.debug("<Registros");

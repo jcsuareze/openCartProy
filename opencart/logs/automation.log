@@ -1,28 +1,310 @@
-00:09:12.275[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
-00:09:12.535[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
-00:09:12.822[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
-00:09:15.687[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
-00:20:06.706[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
-00:20:06.804[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
-00:20:07.081[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
-00:20:09.977[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
-00:20:10.008[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
-00:20:10.010[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
-00:32:22.827[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
-00:32:22.916[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
-00:32:23.226[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
-00:32:26.136[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
-00:32:26.166[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
-00:32:26.170[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
-00:33:27.125[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
-00:33:27.207[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
-00:33:27.486[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
-00:33:30.350[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
-00:33:30.383[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
-00:33:30.385[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
-00:34:50.232[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
-00:34:50.498[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
-00:34:50.800[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
-00:34:53.675[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
-00:34:53.706[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
-00:34:53.713[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+18:26:59.327[AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf[36] - -Dio.netty.buffer.checkBounds: trues
+18:26:59.335[AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory[36] - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6c995cc3s
+18:26:59.356[AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler[36] - -Dio.netty.recycler.maxCapacityPerThread: 4096s
+18:26:59.356[AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler[36] - -Dio.netty.recycler.ratio: 8s
+18:26:59.357[AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler[36] - -Dio.netty.recycler.chunkSize: 32s
+18:26:59.357[AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler[36] - -Dio.netty.recycler.blocking: falses
+18:26:59.922[AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli[36] - brotli4j not in the classpath; Brotli support will be unavailable.s
+18:27:00.026[main] DEBUG io.netty.util.internal.ThreadLocalRandom[36] - -Dio.netty.initialSeedUniquifier: 0xf7d250e7641a3ddbs
+18:27:02.203[main] DEBUG com.opencart.testCases.TC_001_AccountRegistrationTest[36] - <Registross
+18:27:02.203[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+18:27:02.566[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
+18:27:03.005[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
+18:27:06.032[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
+18:27:06.065[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
+18:27:06.067[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+18:27:06.077[AsyncHttpClient-1-4] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder[36] - Encoding WebSocket Frame opCode=8 length=26s
+18:39:35.343[main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory[36] - Using Log4J2 as the default logging frameworks
+18:39:35.349[main] DEBUG io.netty.util.ResourceLeakDetector[36] - -Dio.netty.leakDetection.level: simples
+18:39:35.349[main] DEBUG io.netty.util.ResourceLeakDetector[36] - -Dio.netty.leakDetection.targetRecords: 4s
+18:39:35.352[main] DEBUG io.netty.util.ResourceLeakDetectorFactory[36] - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7ae9a33as
+18:39:35.369[main] DEBUG io.netty.util.internal.PlatformDependent0[36] - -Dio.netty.noUnsafe: falses
+18:39:35.369[main] DEBUG io.netty.util.internal.PlatformDependent0[36] - Java version: 17s
+18:39:35.371[main] DEBUG io.netty.util.internal.PlatformDependent0[36] - sun.misc.Unsafe.theUnsafe: availables
+18:39:35.371[main] DEBUG io.netty.util.internal.PlatformDependent0[36] - sun.misc.Unsafe.copyMemory: availables
+18:39:35.372[main] DEBUG io.netty.util.internal.PlatformDependent0[36] - sun.misc.Unsafe.storeFence: availables
+18:39:35.372[main] DEBUG io.netty.util.internal.PlatformDependent0[36] - java.nio.Buffer.address: availables
+18:39:35.373[main] DEBUG io.netty.util.internal.PlatformDependent0[36] - direct buffer constructor: unavailables
+java.lang.UnsupportedOperationException: Reflective setAccessible(true) disabled
+	at io.netty.util.internal.ReflectionUtil.trySetAccessible(ReflectionUtil.java:31) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.internal.PlatformDependent0$5.run(PlatformDependent0.java:288) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at java.security.AccessController.doPrivileged(AccessController.java:318) ~[?:?]
+	at io.netty.util.internal.PlatformDependent0.<clinit>(PlatformDependent0.java:282) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.internal.PlatformDependent.isAndroid(PlatformDependent.java:333) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.internal.PlatformDependent.<clinit>(PlatformDependent.java:88) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:114) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:251) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:224) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:203) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at org.asynchttpclient.DefaultAsyncHttpClient.newNettyTimer(DefaultAsyncHttpClient.java:111) ~[async-http-client-2.12.3.jar:?]
+	at org.asynchttpclient.DefaultAsyncHttpClient.<init>(DefaultAsyncHttpClient.java:90) ~[async-http-client-2.12.3.jar:?]
+	at org.asynchttpclient.Dsl.asyncHttpClient(Dsl.java:32) ~[async-http-client-2.12.3.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient.createHttpClient(NettyClient.java:94) ~[selenium-remote-driver-4.8.0.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient.<clinit>(NettyClient.java:47) ~[selenium-remote-driver-4.8.0.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient$Factory.createClient(NettyClient.java:135) ~[selenium-remote-driver-4.8.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:107) ~[selenium-remote-driver-4.8.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:94) ~[selenium-remote-driver-4.8.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:85) ~[selenium-remote-driver-4.8.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.<init>(DriverCommandExecutor.java:80) ~[selenium-remote-driver-4.8.0.jar:?]
+	at org.openqa.selenium.chromium.ChromiumDriverCommandExecutor.<init>(ChromiumDriverCommandExecutor.java:35) ~[selenium-chromium-driver-4.8.0.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver$ChromeDriverCommandExecutor.<init>(ChromeDriver.java:94) ~[selenium-chrome-driver-4.8.0.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:82) ~[selenium-chrome-driver-4.8.0.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:50) ~[selenium-chrome-driver-4.8.0.jar:?]
+	at com.opencart.testBase.BaseClass.setup(BaseClass.java:27) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:180) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:122) ~[testng-7.7.1.jar:7.7.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) ~[testng-remote.jar:?]
+18:39:35.381[main] DEBUG io.netty.util.internal.PlatformDependent0[36] - java.nio.Bits.unaligned: available, trues
+18:39:35.383[main] DEBUG io.netty.util.internal.PlatformDependent0[36] - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailables
+java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @31610302
+	at jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:392) ~[?:?]
+	at java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:674) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:560) ~[?:?]
+	at io.netty.util.internal.PlatformDependent0$7.run(PlatformDependent0.java:410) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at java.security.AccessController.doPrivileged(AccessController.java:318) ~[?:?]
+	at io.netty.util.internal.PlatformDependent0.<clinit>(PlatformDependent0.java:401) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.internal.PlatformDependent.isAndroid(PlatformDependent.java:333) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.internal.PlatformDependent.<clinit>(PlatformDependent.java:88) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:114) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:251) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:224) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:203) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at org.asynchttpclient.DefaultAsyncHttpClient.newNettyTimer(DefaultAsyncHttpClient.java:111) ~[async-http-client-2.12.3.jar:?]
+	at org.asynchttpclient.DefaultAsyncHttpClient.<init>(DefaultAsyncHttpClient.java:90) ~[async-http-client-2.12.3.jar:?]
+	at org.asynchttpclient.Dsl.asyncHttpClient(Dsl.java:32) ~[async-http-client-2.12.3.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient.createHttpClient(NettyClient.java:94) ~[selenium-remote-driver-4.8.0.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient.<clinit>(NettyClient.java:47) ~[selenium-remote-driver-4.8.0.jar:?]
+	at org.openqa.selenium.remote.http.netty.NettyClient$Factory.createClient(NettyClient.java:135) ~[selenium-remote-driver-4.8.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:107) ~[selenium-remote-driver-4.8.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:94) ~[selenium-remote-driver-4.8.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:85) ~[selenium-remote-driver-4.8.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.<init>(DriverCommandExecutor.java:80) ~[selenium-remote-driver-4.8.0.jar:?]
+	at org.openqa.selenium.chromium.ChromiumDriverCommandExecutor.<init>(ChromiumDriverCommandExecutor.java:35) ~[selenium-chromium-driver-4.8.0.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver$ChromeDriverCommandExecutor.<init>(ChromeDriver.java:94) ~[selenium-chrome-driver-4.8.0.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:82) ~[selenium-chrome-driver-4.8.0.jar:?]
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:50) ~[selenium-chrome-driver-4.8.0.jar:?]
+	at com.opencart.testBase.BaseClass.setup(BaseClass.java:27) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:180) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:122) ~[testng-7.7.1.jar:7.7.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) ~[testng-remote.jar:?]
+18:39:35.386[main] DEBUG io.netty.util.internal.PlatformDependent0[36] - java.nio.DirectByteBuffer.<init>(long, int): unavailables
+18:39:35.386[main] DEBUG io.netty.util.internal.PlatformDependent[36] - sun.misc.Unsafe: availables
+18:39:35.387[main] DEBUG io.netty.util.internal.PlatformDependent[36] - maxDirectMemory: 4114612224 bytes (maybe)s
+18:39:35.387[main] DEBUG io.netty.util.internal.PlatformDependent[36] - -Dio.netty.tmpdir: C:\Users\suare\AppData\Local\Temp (java.io.tmpdir)s
+18:39:35.387[main] DEBUG io.netty.util.internal.PlatformDependent[36] - -Dio.netty.bitMode: 64 (sun.arch.data.model)s
+18:39:35.388[main] DEBUG io.netty.util.internal.PlatformDependent[36] - Platform: Windowss
+18:39:35.388[main] DEBUG io.netty.util.internal.PlatformDependent[36] - -Dio.netty.maxDirectMemory: -1 bytess
+18:39:35.388[main] DEBUG io.netty.util.internal.PlatformDependent[36] - -Dio.netty.uninitializedArrayAllocationThreshold: -1s
+18:39:35.391[main] DEBUG io.netty.util.internal.CleanerJava9[36] - java.nio.ByteBuffer.cleaner(): availables
+18:39:35.392[main] DEBUG io.netty.util.internal.PlatformDependent[36] - -Dio.netty.noPreferDirect: falses
+18:39:35.398[main] DEBUG io.netty.util.internal.PlatformDependent[36] - org.jctools-core.MpscChunkedArrayQueue: availables
+18:39:35.416[main] DEBUG io.netty.util.internal.InternalThreadLocalMap[36] - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024s
+18:39:35.416[main] DEBUG io.netty.util.internal.InternalThreadLocalMap[36] - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096s
+18:39:35.469[main] DEBUG io.netty.handler.ssl.JdkSslContext[36] - Default protocols (JDK): [TLSv1.3, TLSv1.2] s
+18:39:35.469[main] DEBUG io.netty.handler.ssl.JdkSslContext[36] - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]s
+18:39:35.490[main] DEBUG io.netty.channel.MultithreadEventLoopGroup[36] - -Dio.netty.eventLoopThreads: 32s
+18:39:35.498[main] DEBUG io.netty.channel.nio.NioEventLoop[36] - -Dio.netty.noKeySetOptimization: falses
+18:39:35.498[main] DEBUG io.netty.channel.nio.NioEventLoop[36] - -Dio.netty.selectorAutoRebuildThreshold: 512s
+18:39:35.511[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@4e1ce44s
+18:39:35.513[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@2f61d591s
+18:39:35.514[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@332820f4s
+18:39:35.516[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@7173ae5bs
+18:39:35.518[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@72456279s
+18:39:35.519[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@53a9fcfds
+18:39:35.520[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@21f459fcs
+18:39:35.523[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@4d192aefs
+18:39:35.523[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@1416cf9fs
+18:39:35.526[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@84487f4s
+18:39:35.528[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@bfc14b9s
+18:39:35.530[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@fb6097bs
+18:39:35.533[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@2dfe5525s
+18:39:35.534[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@1290c49s
+18:39:35.536[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@6a9b9909s
+18:39:35.537[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@55d9b8f0s
+18:39:35.539[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@a518813s
+18:39:35.540[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@43d38654s
+18:39:35.542[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@75361cf6s
+18:39:35.545[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@6d303498s
+18:39:35.547[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@6ba7383ds
+18:39:35.548[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@3419e23bs
+18:39:35.549[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@710d89e2s
+18:39:35.551[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@1d75e7afs
+18:39:35.552[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@4fc142ecs
+18:39:35.554[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@34b27915s
+18:39:35.555[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@29eda4f8s
+18:39:35.558[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@1b9776f5s
+18:39:35.559[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@5e048149s
+18:39:35.561[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@79d9214ds
+18:39:35.562[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@3d5790eas
+18:39:35.564[main] TRACE io.netty.channel.nio.NioEventLoop[36] - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@1dd7796bs
+18:39:35.585[main] DEBUG io.netty.buffer.PooledByteBufAllocator[36] - -Dio.netty.allocator.numHeapArenas: 32s
+18:39:35.585[main] DEBUG io.netty.buffer.PooledByteBufAllocator[36] - -Dio.netty.allocator.numDirectArenas: 32s
+18:39:35.585[main] DEBUG io.netty.buffer.PooledByteBufAllocator[36] - -Dio.netty.allocator.pageSize: 8192s
+18:39:35.586[main] DEBUG io.netty.buffer.PooledByteBufAllocator[36] - -Dio.netty.allocator.maxOrder: 9s
+18:39:35.586[main] DEBUG io.netty.buffer.PooledByteBufAllocator[36] - -Dio.netty.allocator.chunkSize: 4194304s
+18:39:35.586[main] DEBUG io.netty.buffer.PooledByteBufAllocator[36] - -Dio.netty.allocator.smallCacheSize: 256s
+18:39:35.586[main] DEBUG io.netty.buffer.PooledByteBufAllocator[36] - -Dio.netty.allocator.normalCacheSize: 64s
+18:39:35.586[main] DEBUG io.netty.buffer.PooledByteBufAllocator[36] - -Dio.netty.allocator.maxCachedBufferCapacity: 32768s
+18:39:35.586[main] DEBUG io.netty.buffer.PooledByteBufAllocator[36] - -Dio.netty.allocator.cacheTrimInterval: 8192s
+18:39:35.586[main] DEBUG io.netty.buffer.PooledByteBufAllocator[36] - -Dio.netty.allocator.cacheTrimIntervalMillis: 0s
+18:39:35.586[main] DEBUG io.netty.buffer.PooledByteBufAllocator[36] - -Dio.netty.allocator.useCacheForAllThreads: falses
+18:39:35.586[main] DEBUG io.netty.buffer.PooledByteBufAllocator[36] - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023s
+18:39:35.605[main] DEBUG io.netty.buffer.ByteBufUtil[36] - -Dio.netty.allocator.type: pooleds
+18:39:35.605[main] DEBUG io.netty.buffer.ByteBufUtil[36] - -Dio.netty.threadLocalDirectBufferSize: 0s
+18:39:35.605[main] DEBUG io.netty.buffer.ByteBufUtil[36] - -Dio.netty.maxThreadLocalCharBufferSize: 16384s
+18:39:35.921[Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId[36] - -Dio.netty.processId: 16708 (auto-detected)s
+18:39:35.924[Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil[36] - -Djava.net.preferIPv4Stack: falses
+18:39:35.924[Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil[36] - -Djava.net.preferIPv6Addresses: falses
+18:39:35.934[Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations[36] - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)s
+18:39:35.935[Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil[36] - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200s
+18:39:35.964[Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId[36] - -Dio.netty.machineId: 14:d4:24:ff:fe:eb:1c:33 (auto-detected)s
+18:39:36.008[AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf[36] - -Dio.netty.buffer.checkAccessible: trues
+18:39:36.008[AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf[36] - -Dio.netty.buffer.checkBounds: trues
+18:39:36.008[AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory[36] - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@49ae2ba5s
+18:39:36.027[AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler[36] - -Dio.netty.recycler.maxCapacityPerThread: 4096s
+18:39:36.028[AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler[36] - -Dio.netty.recycler.ratio: 8s
+18:39:36.028[AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler[36] - -Dio.netty.recycler.chunkSize: 32s
+18:39:36.028[AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler[36] - -Dio.netty.recycler.blocking: falses
+18:39:36.585[AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli[36] - brotli4j not in the classpath; Brotli support will be unavailable.s
+18:39:36.663[main] DEBUG io.netty.util.internal.ThreadLocalRandom[36] - -Dio.netty.initialSeedUniquifier: 0x511fb9ae95fdc5c4s
+18:39:37.594[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Comienza el metodo aasdasdasdasdasds
+18:39:37.602[main] DEBUG com.opencart.testCases.TC_001_AccountRegistrationTest[36] - <Registross
+18:39:37.602[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+18:39:37.680[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
+18:39:38.001[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
+18:39:40.876[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
+18:39:40.907[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
+18:39:40.909[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+18:39:40.916[AsyncHttpClient-1-4] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder[36] - Encoding WebSocket Frame opCode=8 length=26s
+18:40:01.577[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Comienza el metodo aasdasdasdasdasds
+18:40:01.587[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+18:40:01.680[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
+18:40:01.970[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
+18:40:04.832[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
+18:40:04.867[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
+18:40:04.870[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+18:42:12.034[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Comienza el metodo aasdasdasdasdasds
+18:42:12.045[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+18:42:12.389[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
+18:42:12.787[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
+18:42:15.688[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
+18:42:15.720[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
+18:42:15.723[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+19:21:25.696[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+19:21:25.784[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
+19:21:26.100[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
+19:21:28.959[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
+19:21:28.988[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
+19:21:28.990[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+21:38:10.931[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+21:38:11.025[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
+21:38:11.422[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
+21:38:14.370[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
+21:38:14.401[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
+21:38:14.404[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+21:53:13.772[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+21:53:14.020[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
+21:53:14.375[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
+21:53:17.300[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
+21:53:17.333[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
+21:53:17.335[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+21:55:38.386[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+21:55:38.470[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
+21:55:38.783[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
+21:55:41.698[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
+21:55:41.727[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
+21:55:41.728[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+22:01:04.980[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+22:01:05.081[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
+22:01:05.400[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
+22:01:08.322[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
+22:01:08.356[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
+22:01:08.358[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+22:03:21.002[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+22:03:21.202[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
+22:03:21.494[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
+22:03:24.399[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
+22:03:24.433[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
+22:03:24.435[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+22:03:53.979[TestNG-tests-2] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+22:03:54.100[TestNG-tests-2] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
+22:03:54.248[TestNG-tests-1] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+22:03:54.348[TestNG-tests-1] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
+22:03:54.530[TestNG-tests-2] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
+22:03:54.775[TestNG-tests-1] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
+22:03:57.486[TestNG-tests-2] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
+22:03:57.514[TestNG-tests-2] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
+22:03:57.516[TestNG-tests-2] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+22:03:57.723[TestNG-tests-1] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
+22:03:57.763[TestNG-tests-1] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
+22:03:57.763[TestNG-tests-1] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+22:51:26.292[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+22:51:26.390[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
+22:51:26.735[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
+22:51:29.595[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
+22:51:29.628[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
+22:51:29.631[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+23:32:39.340[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+23:32:39.440[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
+23:32:39.882[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
+23:32:43.145[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
+23:32:43.180[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
+23:32:43.183[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+23:35:00.606[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+23:35:00.807[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
+23:35:01.107[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
+23:36:36.061[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+23:36:36.148[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
+23:36:36.475[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
+23:40:59.836[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
+23:40:59.973[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Mi cuentas
+23:41:00.334[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en Registros
+23:41:03.229[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Click en continuars
+23:41:03.261[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - Validando mensajes
+23:41:03.263[main] INFO  com.opencart.testCases.TC_001_AccountRegistrationTest[36] - ****Iniciando TC_001_AccountRegistrationTest*****s
